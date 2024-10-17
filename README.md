@@ -1,2 +1,2 @@
 # Car_Text_Rekognition_AWS
-Hello
+An image recognition pipeline in AWS, using two parallel EC2 instances, S3, SQS, and Rekognition.
